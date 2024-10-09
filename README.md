@@ -51,7 +51,7 @@
     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sagittis libero et imperdiet scelerisque. Cras pulvinar diam sit amet metus iaculis, eget euismod felis convallis. Sed cursus nec lacus at bibendum. Donec enim neque, tempus a pretium vitae, fringilla vitae augue. Proin vehicula purus tortor, malesuada sollicitudin felis mollis et. Suspendisse vulputate ante quis libero posuere, eget venenatis eros iaculis. Pellentesque vulputate ante velit, in molestie est pharetra eu. Nam efficitur dolor hendrerit augue pellentesque sodales.</p>
   </div>
 
-<img src="" alt="Juan" style="width: 150px; border-radius: 50%; margin-right: 20px;">
+<img src="https://media.licdn.com/dms/image/v2/D4E03AQGsDXoe1ZwuzQ/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1727435969911?e=1732752000&v=beta&t=q_ddkluVoqrHvobLLgEdGy4R_eRPDFa_qJIIfL_QLrQ" alt="Juan" style="width: 150px; border-radius: 50%; margin-right: 20px;">
   <div>
     <h3>Juan D. Guadalupe Rosado</h3>
     <p><strong>Software Engineering, Undergraduate Student, Class of 2026</strong></p>
@@ -77,7 +77,7 @@
 ## Projects
 
 - **Project 1: Model Compression Engine for Wearable Devices on Skin Cancer** (*NSF Award #*)
-  - Description: Brief description of the project.
+- Description: When it comes to saving a person's life, early detection of illnesses can make the difference between life and death. Machine learning models can be of great help in this case, but their complexity scales with their effectiveness, limiting the types of devices that can run said models. Our objective with this project is to develop a compact model that is capable of running in edge devices while maintaining an acceptable level of accuracy when it comes to detecting skin cancer. We seek to achieve this via a technique called transfer learning, where we take a reliable model that has shown to be effective in other areas, MobileNet V2 in our case, and we modify and train its outer layers so that it is capable of classifying pictures of a patient afflicted with skin cancer.
   - Team: Andrea, Jacob, Juan, Miguel, Harry (Volunteer)
   - [Link to project repository](link-to-repository)
   

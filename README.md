@@ -1,6 +1,6 @@
 
 <div align="center" style="background-color: white; padding: 10px;">
-  <img alt="ecglablogo" src="https://github.com/user-attachments/assets/46d9c47a-0398-42b5-9edc-ca94289ecc6e" width="500">
+  <img alt="ecglablogo" src="https://github.com/user-attachments/assets/83041fc5-3622-4718-9a1d-0ded8582b8b9" width="500">
 </div>
 
 <table align="center" style="background-color: white; border-collapse: collapse;">
